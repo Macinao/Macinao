@@ -5,7 +5,7 @@
 Me chamo Macinao Dantas, atualmente estou cursando ciência da computação na Faculdade Católica da Paraíba.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/maciano-dantas-677315218/" target="_blank">
+    <a href="https://www.linkedin.com/in/macianodantas" target="_blank">
         <img 
             alt="LinkedIn Connect" 
             title="LinkedIn" 

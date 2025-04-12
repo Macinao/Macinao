@@ -1,6 +1,6 @@
 # Olá sou Maciano 👩🏻‍💻
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
 Me chamo Macinao Dantas, atualmente estou cursando ciência da computação na Faculdade Católica da Paraíba.
 
